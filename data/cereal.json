@@ -1,0 +1,10 @@
+{
+    "facts": {
+        "1": "test1",
+        "2": "test2"
+    },
+    "images": {
+        "1": "image1",
+        "2": "image2"
+    }
+}

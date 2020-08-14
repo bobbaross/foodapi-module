@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "Returns images/facts about the requested foods.",
   "main": "index.js",
+  "keywords": [
+    "food","api","data","toast","cereal","foods"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbaross/foodapi-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bobbaross/foodapi-module/issues"
+  },
+  "homepage": "https://github.com/bobbaross/foodapi-module#readme",
   "author": "borboss",
   "license": "MIT"
 }

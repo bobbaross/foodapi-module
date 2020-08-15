@@ -1,7 +1,7 @@
 const toast = require('./data/toast.json')
 const cereal = require('./data/cereal.json')
 const foodList = ['toast', 'cereal']
-
+const brandsList = require('./brands.js')
 exports.foodList = () => {
     return foodList;
 }
@@ -20,6 +20,9 @@ exports.getFact = function (food) {
         let factObj = chosenFood.facts
         return factObj[Math.floor(Math.random() * Object.keys(factObj).length)];
     }
+}
+exports.getBrands = function (food) {
+    brandsList.Brands.find(food.toString())
 }
 exports.getImage = function (food) {
     if (!foodList.includes(food.toString())) {

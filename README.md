@@ -31,5 +31,5 @@ Please contact me on discord if you'd like data to be entered.
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/CoolKidMalachi?label=Follow&style=for-the-badge&logo=Twitter&color=1DA1F2)](https://twitter.com/intent/follow?creen_name=CoolKidMalachi)
 [![Join the Discord](https://img.shields.io/badge/Discord-7289DA?label=Chat&style=for-the-badge&logo=Discord&color=7289DA)](https://minecraft.sexy/crucify)
-[![NPM Package](https://img.shields.io/badge/Node-CB3837?label=Get%20The%20Package&style=for-the-badge&logo=NPM&color=CB3837)]()
+[![NPM Package](https://img.shields.io/badge/Node-CB3837?label=Get%20The%20Package&style=for-the-badge&logo=NPM&color=CB3837)](https://www.npmjs.com/package/foodapi)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?label=Subscribe&style=for-the-badge&logo=Youtube&color=FF0000)](https://youtube.com/c/perfectibility)

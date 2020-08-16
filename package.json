@@ -1,6 +1,6 @@
 {
   "name": "foodapi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Returns images/facts about the requested foods.",
   "main": "index.js",
   "keywords": [

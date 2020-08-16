@@ -1,10 +1,10 @@
 {
   "name": "foodapi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Returns images/facts about the requested foods.",
   "main": "index.js",
   "keywords": [
-    "food","api","data","toast","cereal","foods"
+    "food","api","data","toast","cereal","foods","info","foodinfo"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

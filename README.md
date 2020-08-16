@@ -4,11 +4,17 @@ replaces the website, turning it into a npm wrapper. makes it easier for me.
 
 Insatlling/Requiring
 --------------------
-```npm install foodapi```
+```
+npm install foodapi
+```
 Then, inside of your code requiring it is as simple as any other package.
-```const foodapi = require("foodapi");```
+```
+const foodapi = require("foodapi");
+```
 or
-```import foodapi from "foodapi";```
+```
+import foodapi from "foodapi";
+```
  
 Usage/Examples
 -----
